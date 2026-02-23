@@ -73,3 +73,10 @@ python bmw_configurator.py
 ### License
 
 This project is intended for educational and demonstration purposes. All rights to the BMW brand and associated imagery belong to BMW AG.
+
+
+<img width="1919" height="1011" alt="Screenshot 2026-02-23 223500" src="https://github.com/user-attachments/assets/51ea284d-fe1a-4f20-94b7-4da31562a015" />
+
+<img width="646" height="304" alt="Screenshot 2026-02-23 223520"<img width="631" height="314" alt="Screenshot 2026-02-23 223534" src="https://github.com/user-attachments/assets/176466b8-372d-420d-af32-9c148173d9df" />
+ src="https://github.com/user-attachments/assets/c22120e3-237f-4411-857b-c15e5cd4c823" />
+<img width="659" height="293" alt="Screenshot 2026-02-23 223551" src="https://github.com/user-attachments/assets/e1d0585b-4503-4ce6-96df-010690de8e09" />
