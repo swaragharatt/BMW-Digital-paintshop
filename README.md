@@ -74,9 +74,14 @@ python bmw_configurator.py
 
 This project is intended for educational and demonstration purposes. All rights to the BMW brand and associated imagery belong to BMW AG.
 
+### Images of the interface
 
-<img width="1919" height="1011" alt="Screenshot 2026-02-23 223500" src="https://github.com/user-attachments/assets/51ea284d-fe1a-4f20-94b7-4da31562a015" />
+<img width="1919" height="1011" alt="Screenshot 2026-02-23 223500" src="https://github.com/user-attachments/assets/6f470f05-928a-4c5a-8778-770927f6ec34" />
 
-<img width="646" height="304" alt="Screenshot 2026-02-23 223520"<img width="631" height="314" alt="Screenshot 2026-02-23 223534" src="https://github.com/user-attachments/assets/176466b8-372d-420d-af32-9c148173d9df" />
+<img width="646" height="304" alt="Screenshot 2026-02-23 223520" src="https://github.com/user-attachments/assets/94806a80-5070-4151-805a-ad5be8acbe49" />
 
-<img width="659" height="293" alt="Screenshot 2026-02-23 223551" src="https://github.com/user-attachments/assets/e1d0585b-4503-4ce6-96df-010690de8e09" />
+<img width="631" height="314" alt="Screenshot 2026-02-23 223534" src="https://github.com/user-attachments/assets/5241a92a-4198-4a82-a469-ddd59435dca9" />
+
+<img width="659" height="293" alt="Screenshot 2026-02-23 223551" src="https://github.com/user-attachments/assets/80c16d8a-aff0-471a-88f8-7941135cfb19" />
+
+
